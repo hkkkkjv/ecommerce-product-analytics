@@ -1,0 +1,6 @@
+metric_1,metric_2,spearman_r,p_value,p_value_adjusted,significant
+views,addtocarts,0.15335706175985583,0.0,0.0,True
+views,transactions,0.11545883210239473,0.0,0.0,True
+addtocarts,transactions,0.4978521639540588,0.0,0.0,True
+total_events,unique_items,0.8257564450990528,0.0,0.0,True
+active_days,total_events,0.5614100595708428,0.0,0.0,True

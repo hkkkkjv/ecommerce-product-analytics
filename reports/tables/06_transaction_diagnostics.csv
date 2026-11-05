@@ -1,0 +1,4 @@
+metric,users,share_of_transaction_users
+Users with transaction,11719,1.0
+Transaction without addtocart,1143,0.09753391927638877
+Transaction without view,428,0.03652188753306596

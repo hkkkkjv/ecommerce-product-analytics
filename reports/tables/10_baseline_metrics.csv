@@ -1,0 +1,8 @@
+Metric,Value
+Total users,1407580.0
+Users with view,1404179.0
+Users with add to cart,37722.0
+Users with transaction,11719.0
+Sequential View to Cart conversion,0.022982824839283312
+Sequential Cart to Transaction conversion,0.30001239464551316
+Sequential View to Transaction conversion,0.006895132315751767

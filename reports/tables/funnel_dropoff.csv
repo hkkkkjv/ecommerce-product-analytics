@@ -1,0 +1,3 @@
+transition,users_before,users_after,users_lost,drop_off_rate
+View → Add to cart,1404179,32934,1371245,0.9765457252957066
+Add to cart → Transaction,32934,9952,22982,0.6978198821886197

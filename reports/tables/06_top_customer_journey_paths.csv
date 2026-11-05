@@ -1,0 +1,16 @@
+path,sessions,share
+view,1715386,0.9737244383896008
+view → addtocart,13204,0.007495139568876211
+view → addtocart → view,8892,0.005047469028055686
+view → addtocart → transaction,4729,0.0026843770843089673
+addtocart,4409,0.0025027317751571657
+addtocart → view,1716,0.0009740729703265358
+view → addtocart → transaction → view,1645,0.0009337704173584798
+view → addtocart → view → addtocart → view,1092,0.0006198646174805228
+view → transaction,1078,0.0006119176352051315
+view → addtocart → view → transaction,972,0.0005517476265485972
+view → addtocart → view → addtocart,928,0.0005267713965402245
+addtocart → transaction,753,0.00042743411809783303
+transaction,696,0.0003950785474051684
+view → addtocart → view → addtocart → transaction,412,0.0002338683355329445
+view → transaction → view,399,0.00022648899484865257

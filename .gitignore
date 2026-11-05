@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.DS_Store
+
+data/raw/*
+
+reports/tables/05_user_activity_churn.csv
+reports/tables/06_user_features_segments.csv
+reports/tables/05_sessions.csv

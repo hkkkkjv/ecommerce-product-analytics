@@ -1,0 +1,7 @@
+,0
+transaction_events,22457
+unique_users,11719
+unique_items,12025
+unique_user_item_pairs,21270
+users_with_multiple_transaction_events,2576
+items_with_multiple_buyers,3969

@@ -1,0 +1,12 @@
+metric,value
+visitor_item_pairs,2145179.0
+pairs_with_view,2132127.0
+pairs_with_addtocart,62025.0
+pairs_with_transaction,21270.0
+sequential_view_to_cart_pairs,45395.0
+sequential_full_funnel_pairs,16502.0
+view_to_cart_conversion,0.021290945614402895
+view_to_purchase_conversion,0.007739689052293789
+share_repeat_views,0.14379631232098275
+median_hours_view_to_cart,0.031626527777777774
+median_hours_cart_to_transaction,0.07227069444444445

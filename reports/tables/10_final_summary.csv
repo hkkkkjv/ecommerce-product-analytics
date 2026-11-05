@@ -1,0 +1,9 @@
+metric,value
+Total users,1407580.0
+Users with views,1404179.0
+Baseline view-to-cart conversion,0.022982824839283312
+Baseline cart-to-purchase conversion,0.30001239464551316
+Baseline view-to-purchase conversion,0.006895132315751767
+Number of hypotheses,4.0
+Sample size per group,69986.0
+Total required sample size,139972.0

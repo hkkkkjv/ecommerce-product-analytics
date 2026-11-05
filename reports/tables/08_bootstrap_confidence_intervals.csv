@@ -1,0 +1,7 @@
+metric,statistic,estimate,ci_lower,ci_upper,sample_size,n_bootstrap
+total_events,mean,1.95653,1.90140925,2.02656425,100000,2000
+total_events,median,1.0,1.0,1.0,100000,2000
+views,mean,1.88979,1.8415035,1.95086725,100000,2000
+views,median,1.0,1.0,1.0,100000,2000
+active_days,mean,1.17066,1.1655894999999998,1.17570025,100000,2000
+active_days,median,1.0,1.0,1.0,100000,2000

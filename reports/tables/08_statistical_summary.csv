@@ -1,0 +1,10 @@
+metric,value
+total_users,1407580.0
+purchasers,11719.0
+purchase_rate,0.00832563690873698
+mean_events_per_user,1.9580421716705267
+median_events_per_user,1.0
+mean_views_per_user,1.89283166853749
+median_views_per_user,1.0
+mean_active_days,1.17189360462638
+median_active_days,1.0

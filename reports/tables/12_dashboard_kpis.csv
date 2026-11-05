@@ -1,0 +1,13 @@
+metric,value
+total_events,2756101.0
+unique_users,1407580.0
+unique_items,235061.0
+views,2664312.0
+addtocart_events,69332.0
+transaction_events,22457.0
+unique_orders,17672.0
+unique_buyers,11719.0
+view_to_cart_conversion,0.022982824839283312
+view_to_transaction_conversion,0.006895132315751767
+cart_to_transaction_conversion,0.30001239464551316
+average_items_per_order,1.263184698958805

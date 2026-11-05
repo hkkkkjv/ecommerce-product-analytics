@@ -1,0 +1,9 @@
+metric,value
+Baseline conversion,0.022982824839283312
+Target conversion,0.025281107323211646
+Relative MDE,0.1
+Absolute MDE,0.0022982824839283336
+Significance level,0.05
+Statistical power,0.8
+Sample size per group,69986.0
+Total sample size,139972.0

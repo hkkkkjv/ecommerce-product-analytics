@@ -1,0 +1,5 @@
+id,problem,hypothesis,change,primary_metric,guardrail_metric,priority
+H1,Низкая конверсия View → Add to cart,"Если улучшить карточку товара и сделать информацию о товаре более понятной, конверсия в корзину вырастет.",Изменение карточки товара,Add to cart conversion,Purchase conversion,High
+H2,Пользователи возвращаются к товарам,"Если добавить возможность сохранять товары, пользователи будут чаще возвращаться к ним.",Добавление избранного,Repeat visits,Purchase conversion,Medium
+H3,Потери после добавления в корзину,"Если упростить процесс оформления заказа, больше пользователей завершат покупку.",Упрощение checkout,Cart to purchase conversion,View to purchase conversion,High
+H4,Различия в конверсии товаров,"Если улучшить представление товаров с большим числом просмотров и низкой конверсией, их конверсия увеличится.",Оптимизация представления товара,View to purchase conversion,Purchase conversion,Medium
